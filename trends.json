@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "buckets": [
+    {
+      "timestamp": 1549926000000,
+      "datetime": "2019-02-11T23:00:00.000Z",
+      "count": 24,
+      "aggs": {
+        "browser": [
+          {
+            "name": "Chrome 54.0",
+            "count": 4
+          },
+          {
+            "name": "Edge 14.14393",
+            "count": 4
+          },
+          {
+            "name": "Firefox 49.0",
+            "count": 4
+          },
+          {
+            "name": "Firefox 64.0",
+            "count": 4
+          },
+          {
+            "name": "Internet Explorer 11.0",
+            "count": 4
+          },
+          {
+            "name": "Safari 10.0",
+            "count": 4
+          }
+        ],
+        "browserError": [],
+        "browserFail": [],
+        "os": [
+          {
+            "name": "Windows 10",
+            "count": 8
+          },
+          {
+            "name": "Windows 7",
+            "count": 8
+          },
+          {
+            "name": "OS X El Capitan (10.11)",
+            "count": 4
+          },
+          {
+            "name": "OS X Yosemite (10.10)",
+            "count": 4
+          }
+        ],
+        "osError": [],
+        "osFail": [],
+        "owner": [
+          {
+            "name": "jtack4970",
+            "count": 24
+          }
+        ],
+        "status": [
+          {
+            "name": "passed",
+            "count": 24
+          }
+        ]
+      }
+    }
+  ],
+  "metrics": {
+    "browser": {
+      "Chrome 54.0": 4,
+      "Edge 14.14393": 4,
+      "Firefox 49.0": 4,
+      "Firefox 64.0": 4,
+      "Internet Explorer 11.0": 4,
+      "Safari 10.0": 4
+    },
+    "error": {},
+    "fail": {},
+    "os": {
+      "OS X El Capitan (10.11)": 4,
+      "OS X Yosemite (10.10)": 4,
+      "Windows 10": 8,
+      "Windows 7": 8
+    },
+    "owner": {
+      "jtack4970": 24
+    },
+    "status": {
+      "complete": 0,
+      "errored": 0,
+      "failed": 0,
+      "passed": 24
+    }
+  }
+}
