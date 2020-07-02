@@ -1,7 +1,7 @@
-# Analytics and Sauce Labs REST API examples
-Programmatic examples using the Sauce Labs REST API, including the analytics endpoint.
+# Sauce Insights Examples
+Programmatic examples using the Sauce Labs REST API, including the insights endpoint.
 
-This project contains example scripts and dependencies for Optimizing the Testing Experience with Analytics and the Sauce Lab REST API SauceCon 2019 workshop. Use these scripts to test your Sauce Labs authentication credentials, setup your automated testing environment, try out Sauce Labs features, and complete the in-class examples. Download or clone this project to your local environment.
+This project contains example scripts and dependencies for Optimizing the Testing Experience with Sauce Insights and the Sauce Lab REST API SauceCon 2019 workshop. Use these scripts to test your Sauce Labs authentication credentials, setup your automated testing environment, try out Sauce Labs features, and complete the in-class examples. Download or clone this project to your local environment.
 
 <br />
 
